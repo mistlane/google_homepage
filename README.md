@@ -1,0 +1,1 @@
+This is a Google-page remockup exercise. I will rebuild the Google frontpage on my local machine. After the exercise I have trained my skills in HTML and CSS.

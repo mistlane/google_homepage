@@ -1,0 +1,93 @@
+
+#media {   text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(300%);
+
+    
+} 
+
+
+#search {   text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(400%);
+
+    
+} 
+
+#button {   text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);
+
+    
+} 
+
+#login {
+    background-color: rgb(85, 85, 221);
+    color: white;
+    border-radius: 10px;
+}
+
+#navbar {
+    position: fixed;
+    top: 20px;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+}
+  
+li {
+    float: right;
+}
+  
+li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: white;
+  }
+
+.footer {
+    position: fixed;
+    top: 475px;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(219, 213, 213);
+  }
+
+.suomi {
+    position: fixed;
+    top:455px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 10px;
+    border-color: rgb(219, 213, 213);
+    background-color: rgb(219, 213, 213);
+}
+
+.maa {
+    float: left;
+    font-size: 16px;
+    color:grey;
+}
+
+  .jalka {
+      float: left;
+      font-size: 13px;
+  }
